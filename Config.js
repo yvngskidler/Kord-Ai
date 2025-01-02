@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
-  BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: '', // put your session id between the ''
+  OWNER_NUMBERS: "2347082081297", // your number with country code
+  OWNER_NAME: 'Frank', // your owner name 
+  BOT_NAME: "TELLIN", // your preferred bot name
+  SESSION_ID: 'kord_ai-sTOv4IYpuSDk', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
@@ -12,7 +12,7 @@ global.settings = {
   READ_ALL_MESSAGES: false,
   AUTO_READ_STATUS: true,
   PREFIX: [".", "/", "!"],
-  WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
+  WELCOME_MESSAGE: "Hello! I'm Tellin , your friendly WhatsApp bot.",
   DEFAULT_TRANSLATION_LANG: "en",
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
@@ -31,7 +31,7 @@ global.settings = {
   isHackEnable: true,
   SAFE_SEARCH: true,
   REJECT_CALLS: true,
-  SEND_WELCOME_MESSAGE: false,
+  SEND_WELCOME_MESSAGE: true,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
   BAD_WORD_FILTER: true,
