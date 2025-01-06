@@ -1,12 +1,12 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
-  BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: '', // put your session id between the ''
+  OWNER_NUMBERS: "2347082081297", // your number with country code
+  OWNER_NAME: 'Frank', // your owner name 
+  BOT_NAME: "Tellin", // your preferred bot name
+  SESSION_ID: 'kord_ai-61mbFPaOhMwu', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "Public",
+  WORK_MODE: "private",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
@@ -20,9 +20,9 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "opay", // the name of your preferred bank
+    acc_number: "8108668961", // account number for your preferred bank
+    acc_name: "Evelyn Frank" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
@@ -31,7 +31,7 @@ global.settings = {
   isHackEnable: true,
   SAFE_SEARCH: true,
   REJECT_CALLS: true,
-  SEND_WELCOME_MESSAGE: false,
+  SEND_WELCOME_MESSAGE: true,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
   BAD_WORD_FILTER: true,
